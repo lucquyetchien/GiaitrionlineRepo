@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+<channel>
+<name>Truyền Hình HDTV</name>
+
+
+<items>
+
+<item>
+<title>VTV1</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTV1.png</thumbnail>
+</item>
+
+<item>
+<title>VTV3</title>
+<link>http://www.htvonline.com.vn/livetv/vtv3-hd-3133356E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTV3.png</thumbnail>
+</item>
+
+<item>
+<title>VTV6</title>
+<link>http://www.htvonline.com.vn/livetv/vtv6-hd-3133366E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTV6.png</thumbnail>
+</item>
+
+<item>
+<title>VTC HD1</title>
+<link>http://113.160.49.34/lives/origin03/vtchd1hd.isml/vtchd1hd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTCHD1.png</thumbnail>
+</item>
+
+<item>
+<title>VTC HD2</title>
+<link>http://113.160.49.34/lives/origin03/vtchd2hd.isml/vtchd2hd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTCHD2.png</thumbnail>
+</item>
+
+<item>
+<title>VTC HD3</title>
+<link>http://hlscache.fptplay.net.vn/livez/vtcHD3_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl
+</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTCHD3.png</thumbnail>
+</item>
+
+<item>
+<title>VTC3</title>
+<link>http://www.htvonline.com.vn/livetv/vtc3-hd-3133376E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/VTC3.png</thumbnail>
+</item>
+
+<item>
+<title>ITV</title>
+<link>http://113.160.49.34/lives/origin03/itvhd.isml/itvhd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/ITV.png</thumbnail>
+</item>
+
+<item>
+<title>N+ LIVE</title>
+<link>http://123.30.134.108:1935/live/nctlive/playlist.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/NCT.png</thumbnail>
+</item>
+
+<item>
+<title>BÓNG ĐÁ TV</title>
+<link>http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Bongda.png</thumbnail>
+</item>
+
+<item>
+<title>THỂ THAO TV</title>
+<link>http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Thethao.png</thumbnail>
+</item>
+
+<item>
+<title>HTV2</title>
+<link>http://www.htvonline.com.vn/livetv/htv2-31336E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HTV2.png</thumbnail>
+</item>
+
+<item>
+<title>HTV7</title>
+<link>http://www.htvonline.com.vn/livetv/htv7-34336E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HTV7.png</thumbnail>
+</item>
+
+<item>
+<title>HTV9</title>
+<link>http://www.htvonline.com.vn/livetv/htv9-37356E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HTV9.png</thumbnail>
+</item>
+
+<item>
+<title>HTVC PHIM</title>
+<link>http://www.htvonline.com.vn/livetv/htvc-phim-hd-35326E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HTVPhim.png</thumbnail>
+</item>
+
+<item>
+<title>HTVC PLUS</title>
+<link>http://hlscache.fptplay.net.vn/live/htvcplusHD_2500.stream/chunklist.m3u8?token=c335VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVl&did=NzIyNCZoYXNoX3ZhbHVl</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HTVC+.png</thumbnail>
+</item>
+
+<item>
+<title>HTVC THUẦN VIỆT</title>
+<link>http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Thuanviet.png</thumbnail>
+</item>
+
+<item>
+<title>FBNC</title>
+<link>http://www.htvonline.com.vn/livetv/fbnc-34306E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/FBNC.png</thumbnail>
+</item>
+
+<item>
+<title>SCTVHD HÀI</title>
+<link>http://vtv.live.cdn.fptplay.net/vtvlive/smil:sctvhaihd_hls.smil/playlist.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/SCTVHD-HAI.png</thumbnail>
+</item>
+
+<item>
+<title>SCTVHD THỂ THAO</title>
+<link>rtmpe://112.197.2.154:1935/glive//C008_HD_3 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/ token=1b#K8!3zc65ends!</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/SCTV18.png</thumbnail>
+</item>
+
+<item>
+<title>AXN</title>
+<link>http://113.160.49.34/lives/origin03/axnhd.isml/axnhd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/AXN.png</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY WORLD</title>
+<link>http://113.160.49.34/lives/origin03/discoveryhd.isml/discoveryhd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Discovery.png</thumbnail>
+</item>
+
+<item>
+<title>FASHION</title>
+<link>http://113.160.49.34/lives/origin03/fashionhd.isml/fashionhd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Fashion.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT</title>
+<link>http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/FOX.png</thumbnail>
+</item>
+
+<item>
+<title>HBO</title>
+<link>http://113.160.49.34/lives/origin03/hbohd.isml/hbohd.m3u8</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>NATIONAL GEOGRAPHIC</title>
+<link>http://www.htvonline.com.vn/livetv/national-geographic-3132366E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Natgeo.png</thumbnail>
+</item>
+
+<item>
+<title>STAR MOVIE</title>
+<link>http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Starmovie.png</thumbnail>
+</item>
+
+<item>
+<title>STAR WORLD</title>
+<link>http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html</link>
+<thumbnail>http://lucquyetchien.url.ph/Logo/HDTV/Starworld.png</thumbnail>
+</item>
+
+</items>
+</channel>
